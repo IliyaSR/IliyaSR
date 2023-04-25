@@ -1,4 +1,5 @@
 ### 👋 Hi there, I'm Iliya
+I'm interested in back-end development; data science, machine learning, automation
 
 <!--
 **IliyaSR/IliyaSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
