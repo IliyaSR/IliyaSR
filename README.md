@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Iliya Raev</h1>
-<h3 align="center">I'm interested in back-end development; data science, machine learning.</h3>
+<h1 left="center">Hi 👋, I'm Iliya Raev</h1>
+<h3 left="center">I'm interested in back-end development; data science, machine learning.</h3>
 
 - 🌱 I’m currently learning **Python Web**
 
