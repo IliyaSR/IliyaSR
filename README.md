@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Iliya Raev</h1>
-<h3 align="center">fasfasfasfsa</h3>
+<h1 align="left">Hi 👋, I'm Iliya Raev</h1>
+<h3 align="left">fasfasfasfsa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliya&label=Profile%20views&color=0e75b6&style=flat" alt="iliya" /> </p>
 
