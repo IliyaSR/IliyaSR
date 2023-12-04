@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python Web**
 
-- 📫 How to reach me **Linkedin https://www.linkedin.com/in/iliya-raev-584295274/**
+- 📫 How to reach me **Linkedin https://www.linkedin.com/in/ilia-raev-584295274/**
 
 <p align="left">
 </p>
