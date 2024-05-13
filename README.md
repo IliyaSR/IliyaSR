@@ -1,5 +1,5 @@
 <h1 left="center">Hi 👋, I'm Iliya Raev</h1>
-<h3 left="center">I'm interested in back-end development and front-end development.</h3>
+<h3 left="center">I'm interested in Full Stack Development.</h3>
 
 - 🌱 I’m currently learning **Python Web**
 
