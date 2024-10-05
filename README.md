@@ -1,4 +1,4 @@
-<h1 left="center">Hi 👋, I'm Iliya Raev</h1>
+<h1 left="center">Hi 👋, I'm Ilia Raev</h1>
 <h3 left="center">I'm interested in Full Stack Development.</h3>
 
 - 🌱 I’m currently learning **Python Web**
@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 
 </p>
 
